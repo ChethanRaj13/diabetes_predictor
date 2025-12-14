@@ -17,7 +17,7 @@ The system automatically:
 |------|---------|
 | `train.csv` | Raw dataset for training |
 | `test.csv` | Test dataset for prediction |
-| `diabetes_predictor.py` | Main script to train model and generate predictions |
+| `main.py` | Main script to train model and generate predictions |
 | `file1.csv` | Final prediction output with predicted diabetes likelihood |
 
 ---
